@@ -31,7 +31,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "apisauce": "^0.16.0"
+    "apisauce": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.3",
