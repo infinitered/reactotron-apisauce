@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Development has moved been out of this repository. Look for current development at https://github.com/infinitered/reactotron.
+
 # reactotron-apisauce
 
 Converts responses sent via [apisauce](https://github.com/infinitered/apisauce) into
